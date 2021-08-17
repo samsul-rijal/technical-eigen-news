@@ -12,4 +12,4 @@
 - React
 - Typescript
 - Reactstrap
-- Fetch API <a target="_blank" href="https://newsapi.org/">NewsAPI</a>
+- Fetch API from <a target="_blank" href="https://newsapi.org/">NewsAPI</a>
